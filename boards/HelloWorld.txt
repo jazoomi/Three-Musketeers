@@ -1,0 +1,6 @@
+GUARD
+O O O O X
+O _ O O O
+O X _ _ O
+O O O O O
+X O O O O
